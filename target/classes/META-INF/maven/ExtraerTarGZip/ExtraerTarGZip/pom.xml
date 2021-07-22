@@ -7,10 +7,10 @@
   <description>Componente que extrae archivos comprimidos</description>
    <dependencies>
   	<dependency>
-  		<groupId>org.codehaus.plexus</groupId>
-  		<artifactId>plexus-utils</artifactId>
-  		<version>3.3.0</version>
-  	</dependency>
+    	<groupId>org.apache.commons</groupId>
+    	<artifactId>commons-compress</artifactId>
+    	<version>1.21</version>
+	</dependency>
   </dependencies>
   
 </project>
